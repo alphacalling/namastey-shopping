@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title img {
+  height: 4rem;
+  width: 4rem;
+  text-decoration: none;
+  text-transform: none;
+  list-style: none;
+}
+
+.app {
+  display: flex;
+  border: 2px solid black;
+  justify-content: space-between;
+  background-color: skyblue;
+  color: orangered;
+}
+
+.btn-log {
+  height: 3rem;
+  width: 6rem;
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+  margin-top: 1rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+  font-size: large;
+}
+
+.ul {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  padding-left: auto;
+  padding: 1rem;
+}
+
+.card {
+  border: 1px solid darkblue;
+  width: 20rem;
+  height: 25rem;
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 7%;
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.card img {
+  height: 15rem;
+  width: 19rem;
+  border: 3px solid rgb(26, 26, 124);
+  border-radius: 12%;
+  margin-bottom: 1rem;
+}
+
+.restaurant-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.dynamic-list {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+.dynamic-card {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: 1rem;
+  background-color: whitesmoke;
+}
+
+.dynamic-map {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 7%;
+  background-color: antiquewhite;
+}
+
+.dynamic-card img {
+  height: 15rem;
+  width: 19rem;
+  border: 3px solid rgb(24, 68, 139);
+  border-radius: 12%;
+}
+
+.shimmer-effect {
+  width: 18rem;
+  height: 20rem;
+  background-color: rgb(207, 203, 203);
+  border: 1px solid black;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  border-radius: 7%;
+  flex-wrap: wrap;
+}
+
+.footer {
+  border-top: 5px solid blue;
+  height: 100%;
+  width: 100%;
+} */
